@@ -7,7 +7,4 @@ Nesse trabalho, desenvolveremos o cluster supracitado com o objetivo de reduzirm
 Apresentamos também um relatório com dados referentes ao poder de processamento de nosso cluster para que seja possível a comparação com similares, além do valor investido para a montagem de nosso hardware.
 
 
-   
-Pitch do projeto via Slidebean:
-
-<iframe width="640" height="360" src="https://app.slidebean.com/embed/rrpG3csVwM" frameborder="0" allowfullscreen></iframe>
+Pitch do projeto via Slidebean: https://app.slidebean.com/embed/rrpG3csVwM

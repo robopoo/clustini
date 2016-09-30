@@ -1,2 +1,2 @@
-# clustini
+# Clustini
 Clustini - Cluster Everywhere!

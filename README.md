@@ -1,5 +1,4 @@
-# Clustini
-Clustini - Cluster Everywhere!
+# Clustini - The Cheapest Cluster Everywhere!
 
 Nesse projeto, iremos fazer uso de 10 computadores com processador em arquitetura ARM chamados Raspberry PI 3 Model B. O objetivo é montar este cluster onde 1 computador Raspberry PI seja o master, responsável por orquestrar o restante dos 9 computadores que são chamados slaves. Os computadores Raspberry PI utilizados para montar nosso cluster são do tamanho de um cartão de crédito e auto-contidos em uma única placa com poder de processamento de 1GHz cada. Essas placas foram desenvolvidos no Reino Unido pela Fundação Raspberry PI com objetivo de ensinar ciência de computação ao maior número de pessoas possível e de uma forma simples e barata, haja visto que o preço de venda da organização é de 35 dólares. Atualmente, estes computadores são utilizados em diversos tipos de projetos ao redor do mundo, desde atividades lúdicas para crianças até aplicações científicas. Abaixo temos a imagem de uma placa Raspberry PI 3 Model B
 

@@ -7,3 +7,4 @@ Apresentamos também um relatório com dados referentes ao poder de processament
 
 
 Pitch do projeto via Slidebean: https://app.slidebean.com/embed/rrpG3csVwM
+Author - Mychel Platini
